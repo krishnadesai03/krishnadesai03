@@ -61,7 +61,7 @@ I’m a data engineer with hands-on experience building **end-to-end data pipeli
 ## 🤝 Let’s Connect
 
 - 💼 LinkedIn: https://www.linkedin.com/in/desaikri/
-- 📧 Email: desaikri@iu.edu | krishnadesai428@gmail.com
+- 📧 Email: krishna.mdesai03@gmail.com
 
 I’m always open to discussing **data engineering, cloud projects, and analytics problems** — or just geeking out over clean pipelines and well-modeled data 🙂
 
